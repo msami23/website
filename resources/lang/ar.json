@@ -1,0 +1,12 @@
+{
+    "Login" : "تسجيل الدخول",
+    "Username" : "اسم المستخدم",
+    "Name" : "الاسم  ",
+    "Register" : "تسجيل",
+    "Password" : "كلمة المرور",
+    "Forgot Your Password?":"هل نسيت كلمة المرور",
+    "Remember Me": "تذكرني",
+    "Confirm Password" :"تأكيد كلمة المرور",
+    "E-Mail Address" :"عنوان البريد الالكتروني",
+
+}
